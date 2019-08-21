@@ -50,3 +50,6 @@ L'utilisateur peut exporter ses résultats en mettant le système en pause :
 Le système propose aussi la description du projet via le bouton "about".
 
 
+
+<strong>Normes pour le calcul du diamètre</strong>
+
