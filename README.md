@@ -1,6 +1,6 @@
 # LaserbeamProfiler
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\left \langle x \right \rangle =\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 
 <strong>Liste du matériel</strong>
@@ -82,15 +82,15 @@ Le système propose aussi la description du projet via le bouton "about".
 
 <br/><br/><br/>
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\left \langle x^{2} \right \rangle=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 <br/><br/>
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{y}^{2}(z)=\left \langle y^{2} \right \rangle=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(y-\bar{y})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{y}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(y-\bar{y})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 <br/><br/>
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{xy}^{2}(z)=\left \langle xy \right \rangle=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})(y-\bar{y}) dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{xy}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})(y-\bar{y}) dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 <br/><br/><br/>
 
