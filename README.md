@@ -1,6 +1,6 @@
 # LaserbeamProfiler
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 
 <strong>Liste du matériel</strong>
