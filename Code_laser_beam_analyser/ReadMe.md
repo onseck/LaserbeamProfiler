@@ -19,5 +19,8 @@ g++ $(pkg-config --cflags --libs opencv) -lraspicam_cv -lraspicam  main.cpp cvpl
 </li></ul>
 
 
+<p align="center">
+  <img src="../gallery/terminal.png" width="500" title="Laser Beam Analyser">
+</p>
 
 
