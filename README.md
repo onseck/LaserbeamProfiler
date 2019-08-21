@@ -13,7 +13,7 @@ Il faut ensuite tracer les profils selon x et y de l'image, qui donnent une dist
 Différents réglages sont ajoutés pour pouvoir modifier les paramètres de l'image comme la saturation ou les contrastes. Les réglages intéressants sont le temps d'exposition, le nombre d'échantillon et le gain de la caméra.<br/> 
 L'utilisateur aura accès uniquement au nombre d'échantillon (qui lisse la Gaussienne) et au seuil de largeur (critères typiquement utilisés dans la mesure des lasers).<br/> 
 
-
+<br/><br/><br/>
 <strong>Interface</strong>
 
 Sur l'illustration ci-dessous le mode normal du dispositif, l'utilisateur a accès à l'image du laser, aux deux profils, aux diamètres selon x et y, à la puissance et à quelques réglages basiques. <br/> 
@@ -50,6 +50,6 @@ L'utilisateur peut exporter ses résultats en mettant le système en pause :
 Le système propose aussi la description du projet via le bouton "about".
 
 
-
+<br/><br/><br/>
 <strong>Normes pour le calcul du diamètre</strong>
 
