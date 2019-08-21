@@ -1,6 +1,6 @@
 # LaserbeamProfiler
 
-<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\left \langle x^{2} \right \rangle=" border="0"/>
 
 
 <strong>Liste du matériel</strong>
