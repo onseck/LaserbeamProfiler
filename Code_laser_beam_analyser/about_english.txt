@@ -1,0 +1,3 @@
+Ecrire à la suite les informations du menu about. ne pas depasser 80 caractères par lignes et  21 lignes :
+
+This is the about in english

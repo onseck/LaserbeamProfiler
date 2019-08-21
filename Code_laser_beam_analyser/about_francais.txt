@@ -1,0 +1,9 @@
+Ecrire à la suite les informations du menu about. ne pas depasser 80 caractères par lignes et  21 lignes :
+Laser Beam Analyser :
+Lors du mode "play" le programme cible le pixel avec le maximum d'intensité
+Il trace la répartition puis recherche les valeurs seuils (à 13.5 et 50%%)
+Le maximum et la taille du laser sont approximatifs.
+
+Lors du mode "pause" le programme utilise les normes ISO 11146-1:2005F
+Il calcule le maximum et la taille du laser grace aux seconds moments
+Cette méthode se basant sur l'homogeneité de la repartition est plus precise.
