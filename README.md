@@ -1,4 +1,17 @@
 # LaserbeamProfiler
+<strong>Liste du matériel</strong>
+<ul>
+  <li>Raspberry Pi, au moins model 3</li>
+  <li>Caméra NoIR RaspberryPi Module V2</li>
+  <li>Filtres</li>
+  <li>Ecran Raspberry Pi 7TD</li>
+  <li>Alimentation 5V 2A</li>
+</ul>
+
+
+
+
+
 <strong>Présentation</strong>
 
 Un profileur laser est un dispositif coûteux qui est utilisé pour mesurer différentes caractéristiques d'un laser, notamment son diamètre et sa puissance (relative au filtre devant le capteur). Mesures utiles si on veut connaître la focale du laser par exemple.<br/> 
@@ -7,6 +20,8 @@ Le but de ce projet est de concevoir un dispositif simple composé d'un Raspberr
 <p align="center">
   <img src="gallery/Laser_profiler.jpg" width="350" title="Laser Beam Analyser">
 </p>
+
+
 
 Le système est composé de plusieurs filtres pour réduire l'intensité du laser arrivant dans la caméra. Le Raspberry prend alors une photo de la "tache", analyse cette image en déterminant les extremums. Le maximum est alors ciblé sur l'image grâce à un viseur.<br/> 
 Il faut ensuite tracer les profils selon x et y de l'image, qui donnent une distribution normale et permettent de déterminer la taille du laser à 13.5 et 50 pourcent.<br/> 
