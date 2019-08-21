@@ -1,5 +1,9 @@
 # LaserbeamProfiler
 
+<p align="center">
+  <img src="galleryLogos.jpg" width="350" title="Laser Beam Analyser">
+</p>
+
 <strong>Collaborateurs : </strong>
 <ul>
   <li>Martial Geiser</li>
