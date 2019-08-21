@@ -1,6 +1,6 @@
 # LaserbeamProfiler
 
-<h2>Liste du matériel</h2>
+<h3>Liste du matériel</h3>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
   <li>Caméra NoIR RaspberryPi Module V2</li>
@@ -13,7 +13,7 @@
 
 
 <br/><br/><br/>
-<strong>Présentation</strong>
+<h3>Présentation</h3>
 
 Un profileur laser est un dispositif coûteux qui est utilisé pour mesurer différentes caractéristiques d'un laser, notamment son diamètre et sa puissance (relative au filtre devant le capteur). Mesures utiles si on veut connaître la focale du laser par exemple.<br/> 
 Le but de ce projet est de concevoir un dispositif simple composé d'un Raspberry Pi, d'une caméra et d'un écran (ici tactile mais pas nécessairement). Le tout dans un boîtier imprimé en 3D. La programmation de ce système est en c++ avec la librairie openCV, langage jusqu'ici le plus rapide pour le traitement d'image. 
@@ -30,7 +30,7 @@ Différents réglages sont ajoutés pour pouvoir modifier les paramètres de l'i
 L'utilisateur aura accès uniquement au nombre d'échantillon (qui lisse la Gaussienne) et au seuil de largeur (critères typiquement utilisés dans la mesure des lasers).<br/> 
 
 <br/><br/><br/>
-<strong>Interface</strong>
+<h3>Interface</h3>
 
 Sur l'illustration ci-dessous le mode normal du dispositif, l'utilisateur a accès à l'image du laser, aux deux profils, aux diamètres selon x et y, à la puissance et à quelques réglages basiques. <br/> 
 C'est cette interface qui serait utilisée par un utilisateur voulant mesurer les caractéristiques d'un laser dans des conditions normales.
@@ -67,7 +67,7 @@ Le système propose aussi la description du projet via le bouton "about".
 
 
 <br/><br/><br/>
-<strong>Normes pour le calcul du diamètre</strong>
+<h3>Normes pour le calcul du diamètre</h3>
 
 Formules des premiers moments :<br/>
 <img src="http://latex.codecogs.com/svg.latex?\bar{x}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)x dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
