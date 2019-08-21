@@ -19,3 +19,5 @@ g++ $(pkg-config --cflags --libs opencv) -lraspicam_cv -lraspicam  main.cpp cvpl
 </li></ul>
 
 
+
+
