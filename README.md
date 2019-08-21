@@ -68,7 +68,7 @@ Le système propose aussi la description du projet via le bouton "about".
 <br/><br/><br/>
 <strong>Normes pour le calcul du diamètre</strong>
 <h1>Eq math ISO</h1>
-<img src="http://latex.codecogs.com/svg.latex?x=y" border="0"/>
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\left \langle x^{2} \right \rangle=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
 <img src="http://latex.codecogs.com/svg.latex?\bar{x}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)x dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 <br/><br/>
