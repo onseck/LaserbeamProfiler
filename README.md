@@ -1,5 +1,15 @@
 # LaserbeamProfiler
 
+<strong>Collaborateurs : </strong>
+<ul>
+  <li>Martial Geiser</li>
+  <li>Frederic Truffer</li>
+  <li>Alex Miollany</li>
+  <li>Serge Amoos</li>
+  <li>Christopher Tremblay</li>
+</ul>
+
+
 <h3>Liste du matériel</h3>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
