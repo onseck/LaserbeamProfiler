@@ -16,7 +16,7 @@ L'utilisateur aura accès uniquement au nombre d'échantillon (qui lisse la Gaus
 
 <strong>Interface</strong>
 
-Sur l'illustration ci-dessous le mode normal du dispositif, l'utilisateur a accès à l'image du laser, aux deux profils, aux diamètres selon x et y, à la puissance et à quelques réglages basiques. 
+Sur l'illustration ci-dessous le mode normal du dispositif, l'utilisateur a accès à l'image du laser, aux deux profils, aux diamètres selon x et y, à la puissance et à quelques réglages basiques. <br/> 
 C'est cette interface qui serait utilisée par un utilisateur voulant mesurer les caractéristiques d'un laser dans des conditions normales.
 <p align="center">
   <img src="gallery/Interface_Laser_profiler_normal.png" width="350" title="Interface simple Laser Beam Analyser">
@@ -31,9 +31,11 @@ Ci-dessous les réglages du mode "expert" du dispositif, ici les réglages plus 
 
 
 L'image du laser est disponible selon 3 modes : Normal, absolu et relatif
-    - relatif : c'est l'image modifiée comme précédemment mais le maximum du spectre est le maximum de l'image.
-    - absolu : c'est l'image avec les couleurs modifiées selon le spectre. On fixe le maximum du spectre à 255 et on aligne les couleurs     - normal : c'est l'image du laser sans traitement après le passage dans les filtres optiques.
-
+<ul>
+  <li>relatif : c'est l'image modifiée comme précédemment mais le maximum du spectre est le maximum de l'image.</li>
+  <li>absolu : c'est l'image avec les couleurs modifiées selon le spectre. On fixe le maximum du spectre à 255 et on aligne les couleurs </li>
+  <li>normal : c'est l'image du laser sans traitement après le passage dans les filtres optiques.</li>
+</ul>
 <p align="center">
   <img src="gallery/diffaffichage.png" width="350" title="Différents affichages Laser Beam Analyser">
 </p>
