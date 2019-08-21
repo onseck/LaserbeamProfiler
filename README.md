@@ -72,30 +72,20 @@ Le système propose aussi la description du projet via le bouton "about".
 <strong>Formules des premiers moments :</strong><br/>
 <img src="http://latex.codecogs.com/svg.latex?\bar{x}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)x dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 <br/><br/>
-
 <img src="http://latex.codecogs.com/svg.latex?\bar{y}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)y dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
-
-<br/><br/><br/>
+<br/><br/>
 <strong>Formules des seconds moments :</strong><br/>
 <img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
-
 <br/><br/>
-
 <img src="http://latex.codecogs.com/svg.latex?\sigma_{y}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(y-\bar{y})^{2} dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
-
 <br/><br/>
-
 <img src="http://latex.codecogs.com/svg.latex?\sigma_{xy}^{2}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)(x-\bar{x})(y-\bar{y}) dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 
-<br/><br/><br/>
+<br/><br/>
 <strong>Formules des diamètres :</strong><br/>
 <img src="http://latex.codecogs.com/svg.latex?d_{\sigma_x}(z)=2\sqrt{2}(\sigma_x^{2}+\sigma_y^{2}+2\left | \sigma_x_y^{2} \right |)^{\frac{1}{2}}" border="0"/>
-
 <br/><br/>
-
 <img src="http://latex.codecogs.com/svg.latex?d_{\sigma_y}(z)=2\sqrt{2}(\sigma_x^{2}+\sigma_y^{2}-2\left | \sigma_x_y^{2} \right |)^{\frac{1}{2}}" border="0"/>
-
 <br/><br/>
-
 <img src="http://latex.codecogs.com/svg.latex?d_{\sigma_y}(z)=2\sqrt{2}(\sigma_x^{2}+\sigma_y^{2})^{\frac{1}{2}}" border="0"/>
