@@ -3,7 +3,7 @@
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
   <li>Caméra NoIR RaspberryPi Module V2</li>
-  <li>Filtres</li>
+  <li>Filtres optiques</li>
   <li>Ecran Raspberry Pi 7TD</li>
   <li>Alimentation 5V 2A</li>
 </ul>
@@ -11,7 +11,7 @@
 
 
 
-
+<br/><br/><br/>
 <strong>Présentation</strong>
 
 Un profileur laser est un dispositif coûteux qui est utilisé pour mesurer différentes caractéristiques d'un laser, notamment son diamètre et sa puissance (relative au filtre devant le capteur). Mesures utiles si on veut connaître la focale du laser par exemple.<br/> 
