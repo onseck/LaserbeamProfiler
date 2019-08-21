@@ -1,4 +1,8 @@
 # LaserbeamProfiler
+
+<img src="http://latex.codecogs.com/svg.latex?\sigma_{x}^{2}(z)" border="0"/>
+
+
 <strong>Liste du matériel</strong>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
