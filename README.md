@@ -1,6 +1,6 @@
 # LaserbeamProfiler
 
-<strong>Liste du matériel</strong>
+<h2>Liste du matériel</h2>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
   <li>Caméra NoIR RaspberryPi Module V2</li>
