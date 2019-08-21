@@ -70,6 +70,7 @@ Le système propose aussi la description du projet via le bouton "about".
 
 Le calcul des diamètres moyen, selon x et selon y se fait par les normes ISO 11146-1.<br/>
 Formules des premiers moments : 
+<img src="http://latex.codecogs.com/svg.latex?\bar{x}(z)=\frac{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z)x dx dy}{\int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty}E(x,y,z) dx dy}" border="0"/>
 <p align="center">
   <img src="gallery/firstmomentsISO.png" width="450" title="Interface pause/exporté Laser Beam Analyser">
 </p>
