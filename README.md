@@ -15,8 +15,8 @@
 <br/><br/><br/>
 <h3>Présentation</h3>
 
-Un profileur laser est un dispositif coûteux qui est utilisé pour mesurer différentes caractéristiques d'un laser, notamment son diamètre et sa puissance (relative au filtre devant le capteur). Mesures utiles si on veut connaître la focale du laser par exemple.<br/> 
-Le but de ce projet est de concevoir un dispositif simple composé d'un Raspberry Pi, d'une caméra et d'un écran (ici tactile mais pas nécessairement). Le tout dans un boîtier imprimé en 3D. La programmation de ce système est en c++ avec la librairie openCV, langage jusqu'ici le plus rapide pour le traitement d'image. 
+Un profileur laser est un dispositif coûteux qui est utilisé pour mesurer différentes caractéristiques d'un laser, notamment son diamètre et sa puissance (relative au filtre devant le capteur). Mesures utiles si on veut connaître la focalisation du laser par exemple.<br/> 
+Le but de ce projet est de concevoir un dispositif simple composé d'un Raspberry Pi, d'une caméra et d'un écran (ici tactile mais pas nécessairement). Le tout dans un boîtier imprimé en 3D. La programmation de ce système est en C++ avec la librairie openCV, langage jusqu'ici le plus rapide pour le traitement d'image. 
 
 <p align="center">
   <img src="gallery/Laser_profiler.jpg" width="350" title="Laser Beam Analyser">
