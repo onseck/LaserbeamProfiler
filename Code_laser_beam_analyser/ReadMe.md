@@ -1,5 +1,5 @@
 Copier le dossier <em>Code_laser_beam_analyser</em> sur le bureau du <strong>raspberry Pi</strong>.
-Le système necessite une <strong>caméra<strong>.
+Le système necessite une <strong>caméra</strong>.
 
 <ul>
 <li>1ere méthode, interface classique :<br/>
