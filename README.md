@@ -53,3 +53,20 @@ Le système propose aussi la description du projet via le bouton "about".
 <br/><br/><br/>
 <strong>Normes pour le calcul du diamètre</strong>
 
+Le calcul des diamètres moyen, selon x et selon y se fait par les normes ISO 11146-1.<br/>
+Formules des premiers moments : 
+<p align="center">
+  <img src="gallery/firstmomentsISO.png" width="350" title="Interface pause/exporté Laser Beam Analyser">
+</p>
+
+Formules des seconds moments : 
+<p align="center">
+  <img src="gallery/secondmomentsISO.png" width="350" title="Interface pause/exporté Laser Beam Analyser">
+</p>
+
+Formules des diamètres :
+<p align="center">
+  <img src="gallery/diameterISO.png" width="350" title="Interface pause/exporté Laser Beam Analyser">
+</p>
+
+
