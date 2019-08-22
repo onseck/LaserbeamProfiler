@@ -1,7 +1,7 @@
 # LaserbeamProfiler
 
 <p align="center">
-  <img src="galleryLogos.jpg" width="350" title="Logos">
+  <img src="gallery/logos.png" width="350" title="Logos">
 </p>
 
 <strong>Collaborateurs : </strong>
