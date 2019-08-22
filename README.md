@@ -14,7 +14,7 @@
 </ul>
 
 
-<h3>Liste du matériel</h3>
+<strong>Liste du matériel</strong>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
   <li>Caméra NoIR RaspberryPi Module V2</li>
