@@ -4,27 +4,35 @@
   <img src="gallery/logos.png" title="Logos">
 </p>
 
-<div style="display: inline-block">
-<strong>Collaborateurs : </strong>
-<ul>
-  <li>Martial Geiser</li>
-  <li>Frederic Truffer</li>
-  <li>Alex Miollany</li>
-  <li>Serge Amoos</li>
-  <li>Christopher Tremblay</li>
-</ul>
-</div>
 
-<div style="display: inline-block">
-<strong>Liste du matériel</strong>
-<ul>
-  <li>Raspberry Pi, au moins model 3</li>
-  <li>Caméra NoIR RaspberryPi Module V2</li>
-  <li>Filtres optiques</li>
-  <li>Ecran Raspberry Pi 7TD</li>
-  <li>Alimentation 5V 2A</li>
-</ul>
-</div>
+<section>
+<article>
+	<strong>Collaborateurs :</strong>
+	<ul>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+	</ul>
+</article>
+<article>
+	<strong>Liste du matériel :</strong>
+	<ul>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+	</ul>
+</article>
+</section>
+
+<style type="text/css">
+	section{
+		display: flex;
+		flex-direction: row;
+	}
+	article{
+		margin: 20px;
+	}
+</style>
 
 
 
