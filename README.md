@@ -9,17 +9,22 @@
 <article>
 	<strong>Collaborateurs :</strong>
 	<ul>
-		<li>1</li>
-		<li>2</li>
-		<li>3</li>
+		<li>Martial Geiser</li>
+		<li>Frederic Truffer</li>
+		<li>Alex Miollany</li>
+		<li>Serge Amoos</li>
+		<li>Christopher Tremblay</li>
 	</ul>
 </article>
 <article>
 	<strong>Liste du matériel :</strong>
 	<ul>
-		<li>1</li>
-		<li>2</li>
-		<li>3</li>
+		<li>Raspberry Pi au moins model 3</li>
+		<li>Caméra NoIR module V2</li>
+		<li>Ecran Raspberry 7TD</li>
+		<li>Filtres optiques</li>
+		<li>Impressions 3D</li>
+		<li>Alimentation 3V 2A</li>
 	</ul>
 </article>
 </section>
