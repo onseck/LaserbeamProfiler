@@ -4,6 +4,7 @@
   <img src="gallery/logos.png" title="Logos">
 </p>
 
+<div style="display: inline-block">
 <strong>Collaborateurs : </strong>
 <ul>
   <li>Martial Geiser</li>
@@ -12,8 +13,9 @@
   <li>Serge Amoos</li>
   <li>Christopher Tremblay</li>
 </ul>
+</div>
 
-
+<div style="display: inline-block">
 <strong>Liste du matériel</strong>
 <ul>
   <li>Raspberry Pi, au moins model 3</li>
@@ -22,7 +24,7 @@
   <li>Ecran Raspberry Pi 7TD</li>
   <li>Alimentation 5V 2A</li>
 </ul>
-
+</div>
 
 
 
