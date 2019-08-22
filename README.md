@@ -91,7 +91,7 @@ Le système propose aussi la description du projet via le bouton "about".
 
 
 <br/><br/><br/>
-<h3>Normes pour le calcul du diamètre</h3>
+<h3>Normes pour le calcul du diamètre : ISO 11146-1</h3>
 
 <strong>Formules des premiers moments :</strong><br/>
 
